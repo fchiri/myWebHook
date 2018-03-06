@@ -17,16 +17,15 @@ ______________________________________________________________________________
 ______________________________________________________________________________
 
 
-BotID           Identificativo univoco del bot (chiave primaria)
-BotDescription  Descrizione
-BotType         Indica se il bot.....
-Pollig          Indica se il bot va monitorato con il meccanismo di polling o meno. Può valere "true" oppure "false"
-lastRequestId   Riporta l'Id dell'ultima "Request" elaborata
-implementedBy   Indica la classe che implementa il servizio correlato
+- BotID           Identificativo univoco del bot (chiave primaria)
+- BotDescription  Descrizione
+- BotType         Indica se il bot.....
+- Pollig          Indica se il bot va monitorato con il meccanismo di polling o meno. Può valere "true" oppure "false"
+- lastRequestId   Riporta l'Id dell'ultima "Request" elaborata
+- implementedBy   Indica la classe che implementa il servizio correlato
 
 
 Caratteristiche
-- boh
 - implementati meccanismi anti SQL Injection 
 - supporta la generazione di una "tastiera" personalizzata per i bot
 - 
