@@ -26,6 +26,7 @@ ______________________________________________________________________________
 
 
 Caratteristiche
+
 - implementati meccanismi anti SQL Injection 
 - supporta la generazione di una "tastiera" personalizzata per i bot
 - 
